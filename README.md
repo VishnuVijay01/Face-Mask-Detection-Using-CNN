@@ -1,6 +1,6 @@
 # Face-Mask-Detection-Using-CNN
 
-This Deep learning-project uses a convolutional neural network (CNN) to detect whether the face in the image given is with mask or without mask.
+This Deep learning-project uses a convolutional neural network (CNN) to detect whether the face in the given imsage is with mask or without mask.
 
 ## Installation
 
