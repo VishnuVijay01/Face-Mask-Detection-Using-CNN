@@ -24,4 +24,4 @@ Dataset Used : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 ## License
 
-This project is licensed under the MIT License - see the  file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
